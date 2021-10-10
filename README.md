@@ -1,6 +1,10 @@
 # Colorimetry-UN
 code to view the RGB values of a ColorChecker of photos from different cameras
 
+# Code create by:
+- T. Acero Cuellar
+- M. Torres Hernandez
+
 # Idea
 
 The purpose is to characterize the colorimetry of different cameras, for this purpose we take pictures with different cameras to a ColorChecker. Then from a python code we analyze the RGB values of each color square to obtain an error with the real values of the ColorChecker.
