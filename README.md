@@ -2,8 +2,9 @@
 code to view the RGB values of a ColorChecker of photos from different cameras
 
 # Code create by:
-- T. Acero Cuellar
 - M. Torres Hernandez
+- T. Acero Cuellar
+
 
 # Idea
 
